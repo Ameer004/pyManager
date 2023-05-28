@@ -12,8 +12,6 @@ def main():
 def onEvent(typeWebhook, body):
    if typeWebhook == 'incomingMessageReceived':
       onIncomingMessageReceived(body)      
-   elif typeWebhook == 'deviceInfo':   
-      onDeviceInfo(body)              
    elif typeWebhook == 'incomingCall':
       onIncomingCall(body)
 

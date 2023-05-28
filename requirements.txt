@@ -1,3 +1,4 @@
+--upgrade pip
 json
 whatsapp-api-client-python
 

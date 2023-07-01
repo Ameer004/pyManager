@@ -1,5 +1,2 @@
-pip
-json
-whatsapp-api-client-python
-
-whatsapp-api-client-python
+twilio
+flask
